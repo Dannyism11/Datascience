@@ -1,0 +1,1 @@
+The Blog link for the mid report is the following: https://medium.com/@hamdansikander0987654321/fighting-digital-deception-how-to-predict-malicious-urls-with-machine-learning-933db649c4d1
